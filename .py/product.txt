@@ -1,0 +1,11 @@
+1  , Vitamin C Serum          , Garnier   ,   30ml ,   360 , 1000.0 , France       , 2025-04-15
+2  , Skin Cleanser            , Cetaphil  ,  237ml ,   336 ,  280.0 , Switzerland  , 2025-04-09
+3  , Sunscreen                , Aqualogia ,    50g ,   230 ,  700.0 , India        , 2025-03-18
+4  , Regenerist Night Cream   , Olay      ,   50ml ,   420 , 1500.0 , South Africa , 2025-08-25
+5  , Regenerist Day Cream     , Olay      ,   50ml ,   295 , 1500.0 , South Africa , 2025-08-25
+6  , Cooling Face Lotion      , Oriflame  ,   50ml ,   250 , 1100.0 , Sweden       , 2025-01-25
+7  , Hydrating Toner          , Oriflame  ,  150ml ,   200 ,  690.0 , Sweden       , 2025-09-15
+8  , Hydra Radiance Eye Cream , Oriflame  ,   15ml ,   380 , 1300.0 , Sweden       , 2025-02-05
+9  , Moisturizing Lotion      , CeraVe    ,  237ml ,   270 , 1500.0 , USA          , 2025-04-14
+10 , Matte Lip Liquid         , Lakme     ,  2.4ml ,   241 ,  700.0 , India        , 2025-03-25
+11 , Super Glow VIT-C Gloss   , Lakme     ,  2.5ml ,   270 ,  590.0 , India        , 2025-03-01

@@ -1,4 +1,4 @@
-# WeCare – Skincare Shop Inventory & Sales System
+# WeCare – Skincare Product Sale System
 
 A compact Python CLI POS for WeCare skincare inventory, purchases, and sales, built as a college project.
 
